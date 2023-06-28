@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishoy Adly</h1>
 <h3 align="center">A Senior Software Development Engineer from Egypt</h3>
+<img align= "right" alt="coding" width="400" src="programming.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
